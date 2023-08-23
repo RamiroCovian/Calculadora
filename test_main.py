@@ -1,9 +1,9 @@
 # Test de las funciones basicas
 
-from funciones_calc import suma, resta, multi, divi, porcent
+from funciones_calc import sumar, resta, multi, divi, porcent
 
-print(suma(2, 4))  # 6
-print(suma(4, 2))  # 6
+print(sumar(2, 4))  # 6
+print(sumar(4, 2))  # 6
 print(resta(4, 2))  # 2
 print(resta(2, 4))  # -2
 print(multi(4, 2))  # 8
